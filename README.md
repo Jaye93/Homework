@@ -1,12 +1,14 @@
 # Homework
 
-1.md5sum 文件名
+# Q1
+md5sum 文件名
 
-2.diff
+# Q2
+diff
 
-3.
+# Q3
 
-4.
+# Q4
 function odd-or-even() {
 num=$(expr $1 % 2)
 if [ $num == 0 ] ; then
@@ -16,4 +18,5 @@ else
 fi
 }
 
-5.
+# Q5
+# Q6
