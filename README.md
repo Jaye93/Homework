@@ -27,4 +27,5 @@ fi
 }
 
 # Q5
+awk '{sum+=$1 in num.txt}END{print sum}'
 
